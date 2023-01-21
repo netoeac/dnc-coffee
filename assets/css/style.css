@@ -1,0 +1,62 @@
+.dnc-btn{
+  background-color: #2a3342;
+  border: none;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+.dnc-btn:hover{
+  background-color: #5D89C7;
+}
+
+.infoModal {
+  background-color: rgba(217, 217, 217, 0.7);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.modalContent {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 600px;
+  height: 450px;
+  background-color: #FFF;
+  margin-top: 5%;
+  padding: 0;
+  box-shadow: 0 0 2px #ffffff;
+  border-radius: 20px;
+}
+
+.modalClose{
+  margin: 30px;
+  margin-bottom: 40px;      
+}
+
+.modalHeader,
+.modalBody,
+.modalFooter {
+  padding: 10px;
+  text-align: center;
+}
+
+.modalHeader{
+  margin-bottom: 10px;
+}
+
+.modalBody{
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.modalFooter{
+  font-family: 'Raleway', sans-serif;
+}
