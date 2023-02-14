@@ -30,7 +30,7 @@
 
  Hope you enjoy as much as I have! ⭐
 
- ### Screenshots:
+ ### 📸 Screenshots:
 
  <img src="assets/images/screenshots/01.png" alt="card button hide">
  <img src="assets/images/screenshots/02.png" alt="card button shown">
